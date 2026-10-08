@@ -1,16 +1,16 @@
-# NatureDocs
+# NatureDox
 
-Backend documents for naturedocs.com — naturopathic medicine, health, and wellness content.
+Backend documents for naturedox.com — naturopathic medicine, health, and wellness content.
 
 ## Purpose
 
-This repo holds the article corpus, research notes, and operating-system docs for the NatureDocs site. Content here is the single source of truth for what appears on naturedocs.com.
+This repo holds the article corpus, research notes, and operating-system docs for the NatureDox site. Content here is the single source of truth for what appears on naturedox.com.
 
 ## Content split
 
 | Site | Content type |
 |------|-------------|
-| NatureDocs | Naturopathic medicine, health, wellness |
+| NatureDox | Naturopathic medicine, health, wellness |
 | MyCounselor | Counseling, psychology, personal development |
 | Theory of Absolutes | Physics, philosophy, science, eclectic knowledge |
 | Dr. Thomas for President | Political commentary, campaign platform |
@@ -20,7 +20,7 @@ This repo holds the article corpus, research notes, and operating-system docs fo
 ## Structure
 
 ```
-NatureDocs/
+NatureDox/
 ├── articles/          # Published and draft articles (.md)
 ├── archive/           # Superseded or historical content
 └── README.md
